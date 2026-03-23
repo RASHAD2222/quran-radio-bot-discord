@@ -1,6 +1,6 @@
 {
-  "name": "quran-radio-bot-discord",
-  "description": "Bot By ShuruhatikYT",
+  "name": "quran bot",
+  "description": "بوت قران مخصص بواسطة رشاد",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
